@@ -1,4 +1,4 @@
-# Project-1 (Python) : Car Sales Analysis. 
+# Project-1 (Python) : Car Sales Analysis & Visualization. 
 
 ## For our project we decided to go with data analysis, to Embrace the spirit of this bootcamp 😄
 > we chose a dataset from kaggle related to car sellings in india with the following columns:
