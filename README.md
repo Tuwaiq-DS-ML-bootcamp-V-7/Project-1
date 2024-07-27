@@ -62,7 +62,7 @@ The following image illustrates the basic structure of the system:
 
 
 
-### Group Member
+### Group Members
 - Salman Gassem
 - Naif Ghannam
 - Firas Almoqhim
