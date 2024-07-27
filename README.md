@@ -18,7 +18,6 @@
 > - Use a Lambda function.
 
 ## What we used in addition the requirement is the following: 
-- used DeepNote to work simultaneously at the same .ipynb file.
 - Used Kaggle to find the [dataset](https://www.kaggle.com/datasets/akshaydattatraykhare/car-details-dataset)
 - Used Numpy, Pandas, Matplotlib, and seaborn to manipulate the data and visualize Insights.
 
