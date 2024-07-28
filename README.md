@@ -17,7 +17,7 @@ The following image illustrates the basic structure of the system:
 ## Code Description
 #### _Here's a detailed explanation of the code :_ 
 ### Import Statements
-- __random__: This library is used to generate random numbers, which are used to create unique account and card numbers.
+- __random__: This library is used to generate random numbers, which are used to create  account and card numbers.
 - __datetime & timedelta__: These libraries are used to manage dates and times, such as calculating the expiration date of a virtual card.
 - __os__: This library provides functions to interact with the operating system, including file and directory operations.
 - __json__: This library is used to read and write JSON data, allowing for the storage and retrieval of account and transaction information.
